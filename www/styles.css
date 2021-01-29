@@ -1,0 +1,94 @@
+
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+
+p {
+  margin: 0 0 5px;
+}
+
+.wrapper {
+  background-color : #ecf0f5 !important;
+}
+
+.navbar {
+  background-color: #e49300 !important;
+}
+
+.sidebar-menu>li.active>a {
+  border-left-color: #cb8300 !important;
+}
+.sidebar-menu>li:hover>a {
+  border-left-color: #e49300 !important;
+}
+
+.logo:hover {
+  background-color: #e49300 !important;
+}
+
+.logo {
+  background-color: #cb8300 !important;
+  font-weight: bold !important;
+  font-size: 15px !important;
+}
+
+.sidebar-toggle:hover {
+  background: #cb8300 !important;
+}
+
+.box.box-primary, .box.box-success, .box.box-danger, .box.box-info  {
+  box-shadow: 0 0 0 rgba(0,0,0,.1) !important;
+  border-top: 0 !important;
+}
+.box.box-success {
+  margin-bottom: 0 !important;
+}
+.box.box-danger>.box-body   {
+  padding: 0 !important;
+  padding-left: 10px !important;
+}
+
+.mbalogo {
+  text-align: right;
+  padding-top: 30px;
+  padding-right: 20px;
+}
+.mba_logo {
+  max-height: 50.81px !important;
+  max-width: 116.82px !important;
+}
+
+#downloadData {
+  color: gray;
+  font-style: italic;
+}
+
+.architecture {
+  max-width: 722px;
+  max-height: 384px;
+}
+.archi {
+  text-align: center;
+}
+
+.box-info>.box-header {
+  padding: 25px 25px 15px 35px;
+  border-top: 3px solid #d2d6de;
+}
+
+.box.box-primary>.box-header>.box-title {
+  background-color: #fee9c3;   /* fedb9b fed790 fee9c3*/
+  padding: 0px 0px 2px 0px;
+}
+.box.box-primary>.box-header {
+  padding-bottom: 3px;
+}
+
+.comment1 {
+      margin: 30px 0 0 0;
+}
+
+.comment {
+  text-align: center;
+  color: gray;
+  font-style: italic;
+  margin: 0 6px 3px 6px;
+}
